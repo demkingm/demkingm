@@ -40,4 +40,4 @@ Scikit-learn ( CatBoost, RandomForest)
 
 [предсказания прибыльности скважин добычи сырья и анализ рисков](https://github.com/demkingm/pet-projects/tree/master/regression_model)
 
-Предпочтительный способ связи [![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)]
+
