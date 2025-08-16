@@ -40,6 +40,6 @@ Scikit-learn ( CatBoost, RandomForest)
 
 [предсказания прибыльности скважин добычи сырья и анализ рисков](https://github.com/demkingm/pet-projects/tree/master/regression_model)
 
-[задача классификации. интернет магазин](https://github.com/demkingm/pet-projects/blob/master/marketing/readme.md)
+[задача классификации. интернет магазин](https://github.com/demkingm/pet-projects/tree/master/marketing)
 
 
